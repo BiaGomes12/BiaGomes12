@@ -1,7 +1,7 @@
 - 👋 Olá, eu sou a Bianca Eduarda Modesto Gomes
 - 👀 Me interesso por rock 
 - 🌱 Estou aprendendo a linguagem java no alura 
-- 💞️ Tenho 14 anos
+- 💞️ Tenho 15 anos
 - 📫 Estudo no colégio estadual humberto de campos - EFMP
 
 <!---
